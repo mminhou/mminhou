@@ -1,4 +1,4 @@
-### Hi Hi, I'm Minho Choi. 🔥
+### Hi, I'm Minho Choi. 🔥
 
 🌱 Junior web developer (Front-End, Full-Stack)
 😄😄😄
