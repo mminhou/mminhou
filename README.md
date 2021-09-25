@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi Hi, I'm Minho Choi. 🔥
 
+🌱 Junior web developer (Front-End, Full-Stack)
+😄😄😄
 <!--
 **mminhou/mminhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
