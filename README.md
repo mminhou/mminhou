@@ -9,6 +9,8 @@ https://mminhou.github.io/introduce 😄😄😄
   Sometimes I develop ios mobile app using swift. 
 </p>
 
+<br/>
+
 ### 💪 Skills
 #### Platforms & Languages
 <p>
